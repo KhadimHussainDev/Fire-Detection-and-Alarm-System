@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Semester 3\Lab Tasks\Proteus\Fire Detection Alarm System\Fire Detection Alarm System\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Semester 3\Lab Tasks\Proteus\Fire Detection Alarm System\Fire Detection Alarm System\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\Semester 3\Lab Tasks\Proteus\Fire Detection Alarm System\Fire Detection Alarm System\myMacro.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Semester 3\Lab Tasks\Proteus\Fire Detection Alarm System\Fire Detection Alarm System\Debug\Fire Detection Alarm System.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Fire Detection Alarm System.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Fire Detection Alarm System.map</FILE>
+  <FILE>Fire Detection Alarm System.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>D:\Semester 3\Lab Tasks\Proteus\Fire Detection Alarm System\Fire Detection Alarm System\main.asm</FILE><LINE>15</LINE></loop>
+  <L1><FILE>D:\Semester 3\Lab Tasks\Proteus\Fire Detection Alarm System\Fire Detection Alarm System\main.asm</FILE><LINE>29</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
